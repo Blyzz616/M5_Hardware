@@ -1,6 +1,6 @@
 # M5Stack Hardware Repository
 
-Welcome to the M5Stack open-source hardware repository! This repository contains hardware design files for M5Stack product series, including PCB designs, structural files, and KiCad libraries.
+Welcome to the M5Stack open-source hardware repository (Blyzz-cut)! This repository contains hardware design files for M5Stack product series, including PCB designs, structural files, and KiCad libraries.
 
 ## 📁 Directory Structure
 
@@ -18,3 +18,7 @@ M5_Hardware/
 │   └── Symbols/        # Symbol library
 └── Docs/               # Documentation
 ```
+
+## Modifications
+
+M5 Dual Button BIG Buttons
