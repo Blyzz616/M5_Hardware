@@ -21,4 +21,4 @@ M5_Hardware/
 
 ## Modifications
 
-(M5 Dual Button BIG Buttons)[https://github.com/Blyzz616/M5_Hardware/tree/master/Products/U025_Unit_Dual_Button/big-buttons]
+[M5 Dual Button BIG Buttons](https://github.com/Blyzz616/M5_Hardware/tree/master/Products/U025_Unit_Dual_Button/big-buttons)
